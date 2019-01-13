@@ -28,11 +28,11 @@ def process_data(root):
         structure_data = parse_root(root)
          # print(structure_data)
          # passed test 4 block 4
-        index = 0
+        all = []
         for data in structure_data:
-            index + 1
+            all.append(data)    
             
-            return pd.DataFrame(data, index)
+        return pd.DataFrame(structure_data)
 xml_data = open('Learning.xml').read()
 root = ET.XML(xml_data)
 parsed_df = process_data(root)
