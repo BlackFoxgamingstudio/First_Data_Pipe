@@ -161,7 +161,7 @@
 <text top="535" left="79" width="159" height="20" font="1"><a href="24378_24593e9f0d615b2c50e03d3b5db0b25eefabe0882afec30e3074086969e7f28b.html#219">Getters	and	setters</a></text>
 <text top="572" left="105" width="62" height="20" font="1"><a href="24378_24593e9f0d615b2c50e03d3b5db0b25eefabe0882afec30e3074086969e7f28b.html#221">Getters</a></text>
 <text top="608" left="105" width="59" height="20" font="1"><a href="24378_24593e9f0d615b2c50e03d3b5db0b25eefabe0882afec30e3074086969e7f28b.html#222">Setters</a></text>
-<text top="645" left="105" width="364" height="20" font="1"><a href="24378_24593e9f0d615b2c50e03d3b5db0b25eefabe0882afec30e3074086969e7f28b.html#223">But	what’s	the	point	of	get/set	operations?</a></text>
+<text top="645" left="105" width="364" height="20" font="1"><a href="24378_24593e9f0d615b2c50e03d3b5db0b25eefabe0882afec30e3074086969e7f28b.html#223">But	what’s	the	point	of	get/set	OPS?</a></text>
 <text top="682" left="79" width="247" height="20" font="1"><a href="24378_24593e9f0d615b2c50e03d3b5db0b25eefabe0882afec30e3074086969e7f28b.html#225">Constructors	and	destructors</a></text>
 <text top="719" left="79" width="148" height="20" font="1"><a href="24378_24593e9f0d615b2c50e03d3b5db0b25eefabe0882afec30e3074086969e7f28b.html#228">Class	inheritance</a></text>
 <text top="755" left="105" width="135" height="20" font="1"><a href="24378_24593e9f0d615b2c50e03d3b5db0b25eefabe0882afec30e3074086969e7f28b.html#230">Derived	classes</a></text>
@@ -227,7 +227,7 @@
 <text top="535" left="130" width="83" height="20" font="1"><a href="24378_24593e9f0d615b2c50e03d3b5db0b25eefabe0882afec30e3074086969e7f28b.html#334">Exercises</a></text>
 <text top="572" left="130" width="82" height="20" font="1"><a href="24378_24593e9f0d615b2c50e03d3b5db0b25eefabe0882afec30e3074086969e7f28b.html#335">Solutions</a></text>
 <text top="608" left="79" width="84" height="20" font="1"><a href="24378_24593e9f0d615b2c50e03d3b5db0b25eefabe0882afec30e3074086969e7f28b.html#337">Summary</a></text>
-<text top="645" left="54" width="398" height="20" font="1"><a href="24378_24593e9f0d615b2c50e03d3b5db0b25eefabe0882afec30e3074086969e7f28b.html#339">9.	Templates	and	Commonly	Used	Containers</a></text>
+<text top="645" left="54" width="398" height="20" font="1"><a href="24378_24593e9f0d615b2c50e03d3b5db0b25eefabe0882afec30e3074086969e7f28b.html#339">9.	Templates	and	Commonly	Used	container-fluids</a></text>
 <text top="682" left="79" width="255" height="20" font="1"><a href="24378_24593e9f0d615b2c50e03d3b5db0b25eefabe0882afec30e3074086969e7f28b.html#341">Debugging	the	output	in	UE4</a></text>
 <text top="719" left="79" width="159" height="20" font="1"><a href="24378_24593e9f0d615b2c50e03d3b5db0b25eefabe0882afec30e3074086969e7f28b.html#342">UE4’s	TArray&lt;T&gt;</a></text>
 <text top="755" left="105" width="290" height="20" font="1"><a href="24378_24593e9f0d615b2c50e03d3b5db0b25eefabe0882afec30e3074086969e7f28b.html#344">An	example	that	uses	TArray&lt;T&gt;</a></text>
@@ -245,7 +245,7 @@
 </page>
 <page number="11" position="absolute" top="0" left="0" height="1262" width="892">
 <text top="57" left="105" width="146" height="20" font="1"><a href="24378_24593e9f0d615b2c50e03d3b5db0b25eefabe0882afec30e3074086969e7f28b.html#358">Iterating	a	TMap</a></text>
-<text top="94" left="79" width="419" height="20" font="1"><a href="24378_24593e9f0d615b2c50e03d3b5db0b25eefabe0882afec30e3074086969e7f28b.html#359">C++	STL	versions	of	commonly	used	containers</a></text>
+<text top="94" left="79" width="419" height="20" font="1"><a href="24378_24593e9f0d615b2c50e03d3b5db0b25eefabe0882afec30e3074086969e7f28b.html#359">C++	STL	versions	of	commonly	used	container-fluids</a></text>
 <text top="131" left="105" width="111" height="20" font="1"><a href="24378_24593e9f0d615b2c50e03d3b5db0b25eefabe0882afec30e3074086969e7f28b.html#361">C++	STL	set</a></text>
 <text top="168" left="130" width="258" height="20" font="1"><a href="24378_24593e9f0d615b2c50e03d3b5db0b25eefabe0882afec30e3074086969e7f28b.html#361">Finding	an	element	in	a	&lt;set&gt;</a></text>
 <text top="204" left="130" width="74" height="20" font="1"><a href="24378_24593e9f0d615b2c50e03d3b5db0b25eefabe0882afec30e3074086969e7f28b.html#362">Exercise</a></text>
@@ -630,9 +630,9 @@
 <text top="585" left="689" width="110" height="20" font="2">	class	from	a</text>
 <text top="611" left="54" width="151" height="20" font="2">customized	actor.</text>
 <text top="647" left="54" width="85" height="20" font="1"><a href="24378_24593e9f0d615b2c50e03d3b5db0b25eefabe0882afec30e3074086969e7f28b.html#339">Chapter	9</a></text>
-<text top="647" left="139" width="670" height="20" font="2"><a href="24378_24593e9f0d615b2c50e03d3b5db0b25eefabe0882afec30e3074086969e7f28b.html#339">,</a>	<i>Templates	and	Commonly	Used	Containers</i>,	explores	UE4	and	the	C++	STL</text>
-<text top="673" left="54" width="741" height="20" font="2">family	of	collections	of	data,	called	containers.	Often,	a	programming	problem	can	be</text>
-<text top="699" left="54" width="536" height="20" font="2">simplified	many	times	by	selecting	the	right	type	of	container.</text>
+<text top="647" left="139" width="670" height="20" font="2"><a href="24378_24593e9f0d615b2c50e03d3b5db0b25eefabe0882afec30e3074086969e7f28b.html#339">,</a>	<i>Templates	and	Commonly	Used	container-fluids</i>,	explores	UE4	and	the	C++	STL</text>
+<text top="673" left="54" width="741" height="20" font="2">family	of	collections	of	data,	called	container-fluids.	Often,	a	programming	problem	can	be</text>
+<text top="699" left="54" width="536" height="20" font="2">simplified	many	times	by	selecting	the	right	type	of	container-fluid.</text>
 <text top="736" left="54" width="95" height="20" font="1"><a href="24378_24593e9f0d615b2c50e03d3b5db0b25eefabe0882afec30e3074086969e7f28b.html#367">Chapter	10</a></text>
 <text top="736" left="149" width="649" height="20" font="2">,	<i>Inventory	System	and	Pickup	Items</i>,	discusses	the	creation	of	an	inventory</text>
 <text top="762" left="54" width="387" height="20" font="2">system	with	the	ability	to	pick	up	new	items.</text>
@@ -1225,13 +1225,13 @@
 <text top="64" left="54" width="174" height="39" font="0"><b>Variables</b></text>
 <text top="120" left="54" width="747" height="20" font="2">A	saved	location	in	computer	memory	that	we	can	read	or	write	to	is	called	a	<i>variable</i>.</text>
 <text top="157" left="54" width="777" height="20" font="2">A	variable	is	a	component	whose	value	can	vary.	In	a	computer	program,	you	can	think	of</text>
-<text top="183" left="54" width="692" height="20" font="2">a	variable	as	a	container,	into	which	you	can	store	some	data.	In	C++,	these	data</text>
-<text top="209" left="54" width="769" height="20" font="2">containers	(variables)	have	types.	You	have	to	use	the	right	type	of	data	container	to	save</text>
+<text top="183" left="54" width="692" height="20" font="2">a	variable	as	a	container-fluid,	into	which	you	can	store	some	data.	In	C++,	these	data</text>
+<text top="209" left="54" width="769" height="20" font="2">container-fluids	(variables)	have	types.	You	have	to	use	the	right	type	of	data	container-fluid	to	save</text>
 <text top="235" left="54" width="232" height="20" font="2">your	data	in	your	program.</text>
 <text top="271" left="54" width="570" height="20" font="2">If	you	want	to	save	an	integer,	such	as	1,	0,	or	20,	you	will	use	an	</text>
 <text top="276" left="624" width="31" height="14" font="5">int</text>
-<text top="271" left="656" width="173" height="20" font="2">	type	container.	You</text>
-<text top="297" left="54" width="731" height="20" font="2">can	use	float-type	containers	to	carry	around	floating-point	(decimal)	values,	such	as</text>
+<text top="271" left="656" width="173" height="20" font="2">	type	container-fluid.	You</text>
+<text top="297" left="54" width="731" height="20" font="2">can	use	float-type	container-fluids	to	carry	around	floating-point	(decimal)	values,	such	as</text>
 <text top="323" left="54" width="754" height="20" font="2">38.87,	and	you	can	use	string	variables	to	carry	around	strings	of	letters	(think	of	it	as	a</text>
 <text top="349" left="54" width="403" height="20" font="2">“string	of	pearls”,	where	each	letter	is	a	pearl).</text>
 <text top="386" left="54" width="742" height="20" font="2">You	can	think	of	your	reserved	spot	in	RAM	like	reserving	parking	space	in	a	parking</text>
@@ -1389,7 +1389,7 @@
 	<fontspec id="10" size="14" family="Times" color="#000000"/>
 <text top="61" left="54" width="197" height="32" font="7"><b>Math	in	C++</b></text>
 <text top="110" left="54" width="784" height="20" font="2">Math	in	C++	is	easy	to	do;	+	(plus),	-	(minus),	*	(times),	/	(divide	by)	are	all	common	C++</text>
-<text top="136" left="54" width="767" height="20" font="2">operations,	and	proper	BEDMAS	order	will	be	followed	(Brackets,	Exponents,	Division,</text>
+<text top="136" left="54" width="767" height="20" font="2">OPS,	and	proper	BEDMAS	order	will	be	followed	(Brackets,	Exponents,	Division,</text>
 <text top="162" left="54" width="722" height="20" font="2">Multiplication,	Addition,	and	Subtraction).	For	example,	we	can	do	as	shown	in	the</text>
 <text top="188" left="54" width="136" height="20" font="2">following	code:</text>
 <text top="231" left="54" width="352" height="14" font="5">int	answer	=	277	+	5	*	4	/	2	+	20;</text>
@@ -1449,7 +1449,7 @@
 <text top="196" left="54" width="99" height="22" font="8"><b>Exercises</b></text>
 <text top="235" left="54" width="214" height="20" font="2">Write	down	the	value	of	</text>
 <text top="239" left="268" width="10" height="14" font="5">x</text>
-<text top="235" left="279" width="517" height="20" font="2">	after	performing	the	following	operations;	then,	check	with</text>
+<text top="235" left="279" width="517" height="20" font="2">	after	performing	the	following	OPS;	then,	check	with</text>
 <text top="260" left="54" width="128" height="20" font="2">your	compiler:</text>
 <text top="311" left="59" width="64" height="14" font="9"><b>Exercises</b></text>
 <text top="311" left="221" width="64" height="14" font="9"><b>Solutions</b></text>
@@ -1905,7 +1905,7 @@
 <page number="109" position="absolute" top="0" left="0" height="1262" width="892">
 <text top="64" left="54" width="182" height="39" font="0"><b>Summary</b></text>
 <text top="120" left="54" width="736" height="20" font="2">In	this	chapter,	we	spoke	about	variables	and	memory.	We	talked	about	mathematical</text>
-<text top="146" left="54" width="504" height="20" font="2">operations	on	variables	and	how	simple	they	were	in	C++.</text>
+<text top="146" left="54" width="504" height="20" font="2">OPS	on	variables	and	how	simple	they	were	in	C++.</text>
 <text top="183" left="54" width="773" height="20" font="2">We	also	discussed	how	arbitrarily	complex	data	types	can	be	built	using	a	combination	of</text>
 <text top="209" left="54" width="783" height="20" font="2">these	simpler	data	types,	such	as	floats,	integers,	and	characters.	Constructions	such	as	this</text>
 <text top="235" left="54" width="155" height="20" font="2">are	called	objects.</text>
@@ -3151,7 +3151,7 @@
 <text top="527" left="233" width="330" height="20" font="2">	does	not	change	inside	the	loop	body.</text>
 <text top="564" left="54" width="762" height="20" font="2">The	following	exercises	will	use	all	the	concepts	from	the	previous	chapters,	such	as	the</text>
 <text top="594" left="54" width="21" height="14" font="5">+=</text>
-<text top="590" left="75" width="703" height="20" font="2">	and	decrement	operations.	If	you’ve	forgotten	something,	go	back	and	reread	the</text>
+<text top="590" left="75" width="703" height="20" font="2">	and	decrement	OPS.	If	you’ve	forgotten	something,	go	back	and	reread	the</text>
 <text top="616" left="54" width="155" height="20" font="2">previous	sections.</text>
 </page>
 <page number="150" position="absolute" top="0" left="0" height="1262" width="892">
@@ -4343,7 +4343,7 @@
 <text top="187" left="210" width="73" height="14" font="5">#define</text>
 <text top="183" left="283" width="422" height="20" font="2">.	For	example,	say	we	have	the	following	macro:</text>
 <text top="226" left="54" width="186" height="14" font="5">#define	PI	3.14159</text>
-<text top="257" left="54" width="749" height="20" font="2">At	the	lowest	level,	macros	are	simply	copy	and	paste	operations	that	occur	just	before</text>
+<text top="257" left="54" width="749" height="20" font="2">At	the	lowest	level,	macros	are	simply	copy	and	paste	OPS	that	occur	just	before</text>
 <text top="283" left="54" width="454" height="20" font="2">compile	time.	In	the	preceding	macro	statement,	the	</text>
 <text top="288" left="508" width="73" height="14" font="5">3.14159</text>
 <text top="283" left="581" width="220" height="20" font="2">	literal	will	be	copied	and</text>
@@ -5071,9 +5071,9 @@
 <text top="571" left="54" width="394" height="20" font="2">but	only	if	we	do	so	through	a	setter	function.</text>
 </page>
 <page number="223" position="absolute" top="0" left="0" height="1262" width="892">
-<text top="61" left="54" width="640" height="32" font="7"><b>But	what’s	the	point	of	get/set	operations?</b></text>
+<text top="61" left="54" width="640" height="32" font="7"><b>But	what’s	the	point	of	get/set	OPS?</b></text>
 <text top="110" left="54" width="756" height="20" font="2">So	the	first	question	that	crosses	a	newbie	programmer’s	mind	when	he	first	encounters</text>
-<text top="136" left="54" width="184" height="20" font="2">get/set	operations	on	</text>
+<text top="136" left="54" width="184" height="20" font="2">get/set	OPS	on	</text>
 <text top="141" left="238" width="73" height="14" font="5">private</text>
 <text top="136" left="311" width="512" height="20" font="2">	members	is,	isn’t	get/set	self-defeating?	I	mean,	what’s	the</text>
 <text top="162" left="54" width="750" height="20" font="2">point	in	hiding	access	to	data	members	when	we’re	just	going	to	expose	that	same	data</text>
@@ -5092,7 +5092,7 @@
 <text top="465" left="415" width="52" height="14" font="5">get()</text>
 <text top="460" left="467" width="92" height="20" font="2">	operation.</text>
 <text top="501" left="54" width="52" height="14" font="5">Set()</text>
-<text top="497" left="106" width="723" height="20" font="2">	(mutator	method)	operations	are	a	little	bit	counterintuitive	though.	If	the	setter	is	a</text>
+<text top="497" left="106" width="723" height="20" font="2">	(mutator	method)	OPS	are	a	little	bit	counterintuitive	though.	If	the	setter	is	a</text>
 <text top="527" left="54" width="83" height="14" font="5">passthru</text>
 <text top="523" left="137" width="166" height="20" font="2">	operation,	such	as	</text>
 <text top="527" left="303" width="497" height="14" font="5">void	setName(	string	newName	)	{	name=newName;	}</text>
@@ -5817,7 +5817,7 @@
 <text top="162" left="54" width="247" height="20" font="2">existing	members	inside	the	</text>
 <text top="167" left="301" width="124" height="14" font="5">class	Mammal</text>
 <text top="162" left="425" width="107" height="20" font="2">	declaration.</text>
-<text top="199" left="54" width="425" height="20" font="2">For	each	class,	perform	the	following	operations:</text>
+<text top="199" left="54" width="425" height="20" font="2">For	each	class,	perform	the	following	OPS:</text>
 <text top="236" left="69" width="386" height="20" font="2">1.	 Delete	all	function	bodies	(code	between	</text>
 <text top="240" left="456" width="10" height="14" font="5">{</text>
 <text top="236" left="466" width="42" height="20" font="2">	and	</text>
@@ -7532,16 +7532,16 @@
 <text top="235" left="297" width="95" height="20" font="1"><a href="24378_24593e9f0d615b2c50e03d3b5db0b25eefabe0882afec30e3074086969e7f28b.html#367">Chapter	10</a></text>
 <text top="235" left="392" width="439" height="20" font="2">,	as	well	as	the	code	and	the	concept	to	account	for</text>
 <text top="260" left="54" width="774" height="20" font="2">what	the	player	is	carrying.	Before	we	do	that,	though,	we	will	do	an	in-depth	exploration</text>
-<text top="286" left="54" width="333" height="20" font="2">of	some	of	the	UE4	container	types	in<a href="24378_24593e9f0d615b2c50e03d3b5db0b25eefabe0882afec30e3074086969e7f28b.html#339">	</a></text>
+<text top="286" left="54" width="333" height="20" font="2">of	some	of	the	UE4	container-fluid	types	in<a href="24378_24593e9f0d615b2c50e03d3b5db0b25eefabe0882afec30e3074086969e7f28b.html#339">	</a></text>
 <text top="286" left="387" width="85" height="20" font="1"><a href="24378_24593e9f0d615b2c50e03d3b5db0b25eefabe0882afec30e3074086969e7f28b.html#339">Chapter	9</a></text>
 <text top="286" left="472" width="284" height="20" font="2"><a href="24378_24593e9f0d615b2c50e03d3b5db0b25eefabe0882afec30e3074086969e7f28b.html#339">,</a>	<i>Templates	and	Commonly	Used</i></text>
-<text top="312" left="54" width="101" height="20" font="4"><i>Containers</i>.</text>
+<text top="312" left="54" width="101" height="20" font="4"><i>container-fluids</i>.</text>
 </page>
 <page number="339" position="absolute" top="0" left="0" height="1262" width="892">
 </page>
 <page number="340" position="absolute" top="0" left="0" height="1262" width="892">
 <text top="64" left="54" width="690" height="39" font="0"><b>Chapter	9.	Templates	and	Commonly</b></text>
-<text top="116" left="54" width="306" height="39" font="0"><b>Used	Containers</b></text>
+<text top="116" left="54" width="306" height="39" font="0"><b>Used	container-fluids</b></text>
 <text top="172" left="54" width="23" height="20" font="2">In<a href="24378_24593e9f0d615b2c50e03d3b5db0b25eefabe0882afec30e3074086969e7f28b.html#250">	</a></text>
 <text top="172" left="77" width="85" height="20" font="1"><a href="24378_24593e9f0d615b2c50e03d3b5db0b25eefabe0882afec30e3074086969e7f28b.html#250">Chapter	7</a></text>
 <text top="172" left="162" width="640" height="20" font="2"><a href="24378_24593e9f0d615b2c50e03d3b5db0b25eefabe0882afec30e3074086969e7f28b.html#250">,</a>	<i>Dynamic	Memory	Allocation</i>,	we	spoke	about	how	you	will	use	dynamic</text>
@@ -7558,19 +7558,19 @@
 <text top="338" left="54" width="269" height="20" font="2">memory	this	way	is	hard	work.</text>
 <text top="375" left="54" width="732" height="20" font="2">Is	there	a	way	to	create	an	array	of	dynamic	size	and	have	the	memory	automatically</text>
 <text top="401" left="54" width="737" height="20" font="2">managed	for	you	by	C++?	The	answer	is	yes.	There	are	C++	object	types	(commonly</text>
-<text top="427" left="54" width="665" height="20" font="2">called	containers)	that	handle	dynamic	memory	allocations	and	deallocations</text>
-<text top="453" left="54" width="774" height="20" font="2">automatically.	UE4	provides	a	couple	of	container	types	to	store	your	data	in	dynamically</text>
+<text top="427" left="54" width="665" height="20" font="2">called	container-fluids)	that	handle	dynamic	memory	allocations	and	deallocations</text>
+<text top="453" left="54" width="774" height="20" font="2">automatically.	UE4	provides	a	couple	of	container-fluid	types	to	store	your	data	in	dynamically</text>
 <text top="479" left="54" width="181" height="20" font="2">resizable	collections.</text>
-<text top="515" left="54" width="703" height="20" font="2">There	are	two	different	groups	of	template	containers.	There	is	the	UE4	family	of</text>
-<text top="541" left="54" width="237" height="20" font="2">containers	(beginning	with	</text>
+<text top="515" left="54" width="703" height="20" font="2">There	are	two	different	groups	of	template	container-fluids.	There	is	the	UE4	family	of</text>
+<text top="541" left="54" width="237" height="20" font="2">container-fluids	(beginning	with	</text>
 <text top="546" left="291" width="21" height="14" font="5">T*</text>
 <text top="541" left="311" width="526" height="20" font="2">)	and	the	C++	<b>Standard	Template	Library</b>	(<b>STL</b>)	family	of</text>
-<text top="567" left="54" width="738" height="20" font="2">containers.	There	are	some	differences	between	the	UE4	containers	and	the	C++	STL</text>
-<text top="593" left="54" width="755" height="20" font="2">containers,	but	the	differences	are	not	major.	UE4	containers	sets	are	written	with	game</text>
-<text top="619" left="54" width="748" height="20" font="2">performance	in	mind.	C++	STL	containers	also	perform	well,	and	their	interfaces	are	a</text>
+<text top="567" left="54" width="738" height="20" font="2">container-fluids.	There	are	some	differences	between	the	UE4	container-fluids	and	the	C++	STL</text>
+<text top="593" left="54" width="755" height="20" font="2">container-fluids,	but	the	differences	are	not	major.	UE4	container-fluids	sets	are	written	with	game</text>
+<text top="619" left="54" width="748" height="20" font="2">performance	in	mind.	C++	STL	container-fluids	also	perform	well,	and	their	interfaces	are	a</text>
 <text top="645" left="54" width="724" height="20" font="2">little	more	consistent	(consistency	in	an	API	is	something	that	you’d	prefer).	Which</text>
-<text top="671" left="54" width="734" height="20" font="2">container	set	you	use	is	up	to	you.	However,	it	is	recommended	that	you	use	the	UE4</text>
-<text top="697" left="54" width="781" height="20" font="2">container	set	since	it	guarantees	that	you	won’t	have	cross-platform	issues	when	you	try	to</text>
+<text top="671" left="54" width="734" height="20" font="2">container-fluid	set	you	use	is	up	to	you.	However,	it	is	recommended	that	you	use	the	UE4</text>
+<text top="697" left="54" width="781" height="20" font="2">container-fluid	set	since	it	guarantees	that	you	won’t	have	cross-platform	issues	when	you	try	to</text>
 <text top="723" left="54" width="166" height="20" font="2">compile	your	code.</text>
 </page>
 <page number="341" position="absolute" top="0" left="0" height="1262" width="892">
@@ -7774,7 +7774,7 @@
 </page>
 <page number="348" position="absolute" top="0" left="0" height="1262" width="892">
 <text top="61" left="54" width="676" height="32" font="7"><b>Finding	whether	an	element	is	in	the	TArray</b></text>
-<text top="110" left="54" width="599" height="20" font="2">Searching	out	UE4	containers	is	easy.	It	is	commonly	done	using	the	</text>
+<text top="110" left="54" width="599" height="20" font="2">Searching	out	UE4	container-fluids	is	easy.	It	is	commonly	done	using	the	</text>
 <text top="115" left="653" width="41" height="14" font="5">Find</text>
 <text top="110" left="694" width="76" height="20" font="2">	member</text>
 <text top="136" left="54" width="718" height="20" font="2">function.	Using	the	array	we	created	previously,	we	can	find	the	index	of	the	value	</text>
@@ -8005,16 +8005,16 @@
 </page>
 <page number="360" position="absolute" top="0" left="0" height="1262" width="892">
 <text top="64" left="54" width="676" height="39" font="0"><b>C++	STL	versions	of	commonly	used</b></text>
-<text top="116" left="54" width="192" height="39" font="0"><b>containers</b></text>
-<text top="172" left="54" width="723" height="20" font="2">I	want	to	cover	the	C++	STL	versions	of	a	couple	of	containers.	STL	is	the	standard</text>
+<text top="116" left="54" width="192" height="39" font="0"><b>container-fluids</b></text>
+<text top="172" left="54" width="723" height="20" font="2">I	want	to	cover	the	C++	STL	versions	of	a	couple	of	container-fluids.	STL	is	the	standard</text>
 <text top="198" left="54" width="748" height="20" font="2">template	library,	which	is	shipped	with	most	C++	compilers.	The	reason	why	I	want	to</text>
 <text top="224" left="54" width="770" height="20" font="2">cover	these	STL	versions	is	that	they	behave	somewhat	differently	than	the	UE4	versions</text>
-<text top="250" left="54" width="778" height="20" font="2">of	the	same	containers.	In	some	ways,	their	behavior	is	very	good,	but	game	programmers</text>
+<text top="250" left="54" width="778" height="20" font="2">of	the	same	container-fluids.	In	some	ways,	their	behavior	is	very	good,	but	game	programmers</text>
 <text top="276" left="54" width="750" height="20" font="2">often	complain	of	STL	having	performance	issues.	In	particular,	I	want	to	cover	STL’s	</text>
 <text top="280" left="804" width="31" height="14" font="5">set</text>
 <text top="302" left="54" width="37" height="20" font="2">and	</text>
 <text top="306" left="91" width="31" height="14" font="5">map</text>
-<text top="302" left="122" width="99" height="20" font="2">	containers.</text>
+<text top="302" left="122" width="99" height="20" font="2">	container-fluids.</text>
 <text top="340" left="54" width="50" height="22" font="8"><b>Note</b></text>
 <text top="378" left="54" width="673" height="20" font="2">If	you	like	STL’s	interface	but	want	better	performance,	there	is	a	well-known</text>
 <text top="404" left="54" width="783" height="20" font="2">reimplementation	of	the	STL	library	by	Electronic	Arts	called	EASTL,	which	you	can	use.</text>
@@ -8064,7 +8064,7 @@
 <text top="769" left="188" width="612" height="20" font="2">	is	filtered	out,	and	the	elements	are	kept	in	increasing	order	inside	the	</text>
 <text top="774" left="800" width="31" height="14" font="5">set</text>
 <text top="769" left="831" width="5" height="20" font="2">.</text>
-<text top="795" left="54" width="672" height="20" font="2">The	way	we	iterate	over	the	elements	of	an	STL	container	is	similar	to	UE4’s	</text>
+<text top="795" left="54" width="672" height="20" font="2">The	way	we	iterate	over	the	elements	of	an	STL	container-fluid	is	similar	to	UE4’s	</text>
 <text top="800" left="726" width="41" height="14" font="5">TSet</text>
 <text top="795" left="768" width="54" height="20" font="2">	array.</text>
 <text top="821" left="54" width="39" height="20" font="2">The	</text>
@@ -8245,9 +8245,9 @@
 </page>
 <page number="366" position="absolute" top="0" left="0" height="1262" width="892">
 <text top="64" left="54" width="182" height="39" font="0"><b>Summary</b></text>
-<text top="120" left="54" width="737" height="20" font="2">UE4’s	containers	and	the	C++	STL	family	of	containers	are	both	excellent	for	storing</text>
+<text top="120" left="54" width="737" height="20" font="2">UE4’s	container-fluids	and	the	C++	STL	family	of	container-fluids	are	both	excellent	for	storing</text>
 <text top="146" left="54" width="769" height="20" font="2">game	data.	Often,	a	programming	problem	can	be	simplified	many	times	by	selecting	the</text>
-<text top="172" left="54" width="238" height="20" font="2">right	type	of	data	container.</text>
+<text top="172" left="54" width="238" height="20" font="2">right	type	of	data	container-fluid.</text>
 <text top="209" left="54" width="746" height="20" font="2">In	the	next	chapter,	we	will	actually	get	to	programming	the	beginning	of	our	game	by</text>
 <text top="235" left="54" width="665" height="20" font="2">keeping	track	of	what	the	player	is	carrying	and	storing	that	information	in	a	</text>
 <text top="239" left="719" width="41" height="14" font="5">TMap</text>
@@ -11655,7 +11655,7 @@
 <text top="83" left="332" width="73" height="20" font="1"><a href="24378_24593e9f0d615b2c50e03d3b5db0b25eefabe0882afec30e3074086969e7f28b.html#359">Solution</a></text>
 <text top="109" left="97" width="159" height="20" font="2">C++	STL	versions</text>
 <text top="135" left="140" width="65" height="20" font="2">about	/<a href="24378_24593e9f0d615b2c50e03d3b5db0b25eefabe0882afec30e3074086969e7f28b.html#359">	</a></text>
-<text top="135" left="205" width="419" height="20" font="1"><a href="24378_24593e9f0d615b2c50e03d3b5db0b25eefabe0882afec30e3074086969e7f28b.html#359">C++	STL	versions	of	commonly	used	containers</a></text>
+<text top="135" left="205" width="419" height="20" font="1"><a href="24378_24593e9f0d615b2c50e03d3b5db0b25eefabe0882afec30e3074086969e7f28b.html#359">C++	STL	versions	of	commonly	used	container-fluids</a></text>
 <text top="161" left="140" width="128" height="20" font="2">C++	STL	set	/<a href="24378_24593e9f0d615b2c50e03d3b5db0b25eefabe0882afec30e3074086969e7f28b.html#359">	</a></text>
 <text top="161" left="268" width="111" height="20" font="1"><a href="24378_24593e9f0d615b2c50e03d3b5db0b25eefabe0882afec30e3074086969e7f28b.html#359">C++	STL	set</a></text>
 <text top="187" left="140" width="141" height="20" font="2">C++	STL	map	/<a href="24378_24593e9f0d615b2c50e03d3b5db0b25eefabe0882afec30e3074086969e7f28b.html#359">	</a></text>
@@ -11755,7 +11755,7 @@
 <text top="61" left="54" width="24" height="32" font="7"><b>E</b></text>
 <text top="110" left="97" width="67" height="20" font="2">EASTL</text>
 <text top="136" left="140" width="59" height="20" font="2">URL	/	</text>
-<text top="136" left="200" width="419" height="20" font="1"><a href="24378_24593e9f0d615b2c50e03d3b5db0b25eefabe0882afec30e3074086969e7f28b.html#359">C++	STL	versions	of	commonly	used	containers</a></text>
+<text top="136" left="200" width="419" height="20" font="1"><a href="24378_24593e9f0d615b2c50e03d3b5db0b25eefabe0882afec30e3074086969e7f28b.html#359">C++	STL	versions	of	commonly	used	container-fluids</a></text>
 <text top="162" left="97" width="130" height="20" font="2">else	statements</text>
 <text top="188" left="140" width="76" height="20" font="2">coding	/	</text>
 <text top="188" left="216" width="199" height="20" font="1"><a href="24378_24593e9f0d615b2c50e03d3b5db0b25eefabe0882afec30e3074086969e7f28b.html#113">Coding	else	statements</a></text>
@@ -11832,7 +11832,7 @@
 <text top="136" left="205" width="399" height="20" font="1"><a href="24378_24593e9f0d615b2c50e03d3b5db0b25eefabe0882afec30e3074086969e7f28b.html#292">Inheriting	from	UE4	GameFramework	classes</a></text>
 <text top="162" left="97" width="128" height="20" font="2">get()	operation</text>
 <text top="188" left="140" width="65" height="20" font="2">about	/<a href="24378_24593e9f0d615b2c50e03d3b5db0b25eefabe0882afec30e3074086969e7f28b.html#219">	</a></text>
-<text top="188" left="205" width="364" height="20" font="1"><a href="24378_24593e9f0d615b2c50e03d3b5db0b25eefabe0882afec30e3074086969e7f28b.html#219">But	what’s	the	point	of	get/set	operations?</a></text>
+<text top="188" left="205" width="364" height="20" font="1"><a href="24378_24593e9f0d615b2c50e03d3b5db0b25eefabe0882afec30e3074086969e7f28b.html#219">But	what’s	the	point	of	get/set	OPS?</a></text>
 <text top="214" left="97" width="58" height="20" font="2">getters</text>
 <text top="240" left="140" width="65" height="20" font="2">about	/<a href="24378_24593e9f0d615b2c50e03d3b5db0b25eefabe0882afec30e3074086969e7f28b.html#219">	</a></text>
 <text top="240" left="205" width="159" height="20" font="1"><a href="24378_24593e9f0d615b2c50e03d3b5db0b25eefabe0882afec30e3074086969e7f28b.html#219">Getters	and	setters</a></text>
@@ -12218,7 +12218,7 @@
 <text top="396" left="205" width="79" height="20" font="1"><a href="24378_24593e9f0d615b2c50e03d3b5db0b25eefabe0882afec30e3074086969e7f28b.html#80">Scripting</a></text>
 <text top="421" left="97" width="125" height="20" font="2">set()	operation</text>
 <text top="447" left="140" width="65" height="20" font="2">about	/<a href="24378_24593e9f0d615b2c50e03d3b5db0b25eefabe0882afec30e3074086969e7f28b.html#219">	</a></text>
-<text top="447" left="205" width="364" height="20" font="1"><a href="24378_24593e9f0d615b2c50e03d3b5db0b25eefabe0882afec30e3074086969e7f28b.html#219">But	what’s	the	point	of	get/set	operations?</a></text>
+<text top="447" left="205" width="364" height="20" font="1"><a href="24378_24593e9f0d615b2c50e03d3b5db0b25eefabe0882afec30e3074086969e7f28b.html#219">But	what’s	the	point	of	get/set	OPS?</a></text>
 <text top="473" left="97" width="55" height="20" font="2">setters</text>
 <text top="499" left="140" width="65" height="20" font="2">about	/<a href="24378_24593e9f0d615b2c50e03d3b5db0b25eefabe0882afec30e3074086969e7f28b.html#219">	</a></text>
 <text top="499" left="205" width="59" height="20" font="1"><a href="24378_24593e9f0d615b2c50e03d3b5db0b25eefabe0882afec30e3074086969e7f28b.html#219">Setters</a></text>
@@ -12603,7 +12603,7 @@
 <item page="219">Getters and setters</item>
 <item page="221">Getters</item>
 <item page="222">Setters</item>
-<item page="223">But what's the point of get/set operations?</item>
+<item page="223">But what's the point of get/set OPS?</item>
 <item page="225">Constructors and destructors</item>
 <item page="228">Class inheritance</item>
 <item page="230">Derived classes</item>
@@ -12665,7 +12665,7 @@
 <item page="334">Exercises</item>
 <item page="335">Solutions</item>
 <item page="337">Summary</item>
-<item page="339">9. Templates and Commonly Used Containers</item>
+<item page="339">9. Templates and Commonly Used container-fluids</item>
 <item page="341">Debugging the output in UE4</item>
 <item page="342">UE4's TArray&lt;T&gt;</item>
 <item page="344">An example that uses TArray&lt;T&gt;</item>
@@ -12681,7 +12681,7 @@
 <item page="355">TMap&lt;T, S&gt;</item>
 <item page="357">A list of items for the player's inventory</item>
 <item page="358">Iterating a TMap</item>
-<item page="359">C++ STL versions of commonly used containers</item>
+<item page="359">C++ STL versions of commonly used container-fluids</item>
 <item page="361">C++ STL set</item>
 <item page="361">Finding an element in a &lt;set&gt;</item>
 <item page="362">Exercise</item>
