@@ -19,9 +19,31 @@
 <script src="js/wow.min.js"></script>
 
 
+<table class="table table-striped">
+                <thead class="thead-light">
+                        <h1>Google cloud Storage Bucket: Book Lib view 1</h1>
+                                <tr>
+                                 
+                                  <th scope="col">link</th>
+                                  <th scope="col">Name</th>
+                               
+                                </tr>
+                              </thead>
+                {% for item in hi %}
+                
+        <tr>
+         
+                <td class="c1"><IMG src="static/Screen Shot 2019-07-22 at 8.44.45 PM.png" height="35px"><a href="{{item.name}}/api">link</a></td>
+           <td class="c2">{{item.name}}</td>
+           
+           </tr>
+        {% endfor %}
+        </table>
+       
 <div class="row">
+                {% for item in hi %}
         <div class="col-md-3">
-<img src="static/Screen Shot 2019-07-22 at 8.44.45 PM.png" height="300px;" alt="Girl in a jacket"><a href="/book1/api">book1</a> </div>
-<div class="col-md-3">
-<img src="static/cat.gif"  height="300px;" alt="Girl in a jacket"> <a href="/book2/api">book2</a></div>
+                <img src="static/Screen Shot 2019-07-22 at 8.44.45 PM.png" height="300px;" alt=""/><a href="/{{item.name}}/api">{{item.name}}</a> 
+        </div>
+        {% endfor %}
 </div>
